@@ -3,6 +3,21 @@
         "codegpt",
         "cppdbg",
         "deinit",
-        "raylib"
+        "emcc",
+        "gles",
+        "glfw",
+        "linux",
+        "Nikolas",
+        "opengl",
+        "Opengl",
+        "raudio",
+        "raylib",
+        "rgfw",
+        "rmodels",
+        "rshapes",
+        "rtext",
+        "rtextures",
+        "winmm",
+        "Wipper"
     ]
 }
